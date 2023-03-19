@@ -1,1 +1,1 @@
-# JavaProj
+# RTO management system (java project)
